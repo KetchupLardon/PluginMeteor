@@ -1,7 +1,5 @@
 
-Carnet de Bord
-
-Meteor Plugin
+**Meteor Plugin**
 
 Objectif: créer un Plugin météo sur le CMS WordPress.
 
@@ -16,5 +14,6 @@ Troisième direction:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyNDE0OTk2LC0xMjM5MjIzNjldfQ==
+eyJoaXN0b3J5IjpbMTEzOTE3NTIzMSwyOTI0MTQ5OTYsLTEyMz
+kyMjM2OV19
 -->
