@@ -13,6 +13,7 @@ Recherche sur le fonctionnement d'un plugin. Création d'une fonction 					perme
 
 <h4><u>Deuxième direction:</u></h4>
 Création d'un plugin permettant de rajouter des types d'articles chez l'Admin.
+Utilisation du PHP orienté objet.
 
 <h4><u>Troisième direction:</u></h4>
 Création d'une page settings pour un plugin accessible depuis le menu des extensions et depuis la page admin.
@@ -20,7 +21,7 @@ Création d'une page settings pour un plugin accessible depuis le menu des exten
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5MDE4MDUyLC01NjQ5MjE3MDksLTEzND
-M4MzcxODQsNzg1OTk1Mzg3LDI5MjQxNDk5NiwtMTIzOTIyMzY5
-XX0=
+eyJoaXN0b3J5IjpbLTMyNjMzMDM4MCwtNTY0OTIxNzA5LC0xMz
+QzODM3MTg0LDc4NTk5NTM4NywyOTI0MTQ5OTYsLTEyMzkyMjM2
+OV19
 -->
