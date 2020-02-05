@@ -3,6 +3,9 @@
 
 `Objectif:` créer un Plugin météo sur le CMS WordPress.
 
+<h2>Pré-requis</h2>
+Installation de Wordpress sur Linux.
+
 <h2>Processus</h2>
 
 <h4>Première direction:</h4>
@@ -16,6 +19,6 @@ Recherche sur le fonctionnement d'un plugin. Création d'une fonction 					perme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTE4NTg3MywtMTM0MzgzNzE4NCw3OD
+eyJoaXN0b3J5IjpbLTg3Nzk3NzA2OSwtMTM0MzgzNzE4NCw3OD
 U5OTUzODcsMjkyNDE0OTk2LC0xMjM5MjIzNjldfQ==
 -->
