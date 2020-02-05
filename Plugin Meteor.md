@@ -12,13 +12,13 @@ Installation de Wordpress sur Linux.
 Recherche sur le fonctionnement d'un plugin. Création d'une fonction 					permettant d'afficher du text dans un article si la fonction est appelé à l'intérieur.
 
 <h4>Deuxième direction:</h4>
-	Création d'un plugin permettant de rajouter des types d'articles chez l'Admin.
+Création d'un plugin permettant de rajouter des types d'articles chez l'Admin.
 
 <h4>Troisième direction:</h4>
-	Création d'une page settings pour un plugin accessible depuis le menu des extensions et depuis la page admin.
+Création d'une page settings pour un plugin accessible depuis le menu des extensions et depuis la page admin.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Nzk3NzA2OSwtMTM0MzgzNzE4NCw3OD
+eyJoaXN0b3J5IjpbLTU2NDkyMTcwOSwtMTM0MzgzNzE4NCw3OD
 U5OTUzODcsMjkyNDE0OTk2LC0xMjM5MjIzNjldfQ==
 -->
