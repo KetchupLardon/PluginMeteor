@@ -12,9 +12,9 @@ Deuxième direction:
 	Création d'un plugin permettant de rajouter des types d'articles chez l'Admin.
 
 Troisième direction:
-	Création d'une page settings pour un plugin accessible depuis le menu des ex
+	Création d'une page settings pour un plugin accessible depuis le menu des extensions et depuis la page admin.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzE0MDMzNywtMTIzOTIyMzY5XX0=
+eyJoaXN0b3J5IjpbMjkyNDE0OTk2LC0xMjM5MjIzNjldfQ==
 -->
