@@ -22,10 +22,11 @@ Création d'une page settings pour un plugin accessible depuis le menu des exten
 Installation de composer sur Linux pour l'utilisation de la fonction autoload de psr-4.
 Recherche sur psr et fonction autoload.
 Utilisation de namespace.
+Peut-être pas un chemin pertinent au vue de mes objectifs.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTQxMjA4MSwtMzY4MDcyNjg2LC0xMj
-k4ODc4ODg4LC0zMjYzMzAzODAsLTU2NDkyMTcwOSwtMTM0Mzgz
-NzE4NCw3ODU5OTUzODcsMjkyNDE0OTk2LC0xMjM5MjIzNjldfQ
-==
+eyJoaXN0b3J5IjpbLTQ3Mjc3ODEzNCwxMTU1NDEyMDgxLC0zNj
+gwNzI2ODYsLTEyOTg4Nzg4ODgsLTMyNjMzMDM4MCwtNTY0OTIx
+NzA5LC0xMzQzODM3MTg0LDc4NTk5NTM4NywyOTI0MTQ5OTYsLT
+EyMzkyMjM2OV19
 -->
