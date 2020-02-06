@@ -21,9 +21,11 @@ Création d'une page settings pour un plugin accessible depuis le menu des exten
 <h4><u>Quatrième direction:</u></h4>
 Installation de composer sur Linux pour l'utilisation de la fonction autoload de psr-4.
 Recherche sur psr et fonction autoload.
+Utilisation de namespace.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODA3MjY4NiwtMTI5ODg3ODg4OCwtMz
-I2MzMwMzgwLC01NjQ5MjE3MDksLTEzNDM4MzcxODQsNzg1OTk1
-Mzg3LDI5MjQxNDk5NiwtMTIzOTIyMzY5XX0=
+eyJoaXN0b3J5IjpbMTE1NTQxMjA4MSwtMzY4MDcyNjg2LC0xMj
+k4ODc4ODg4LC0zMjYzMzAzODAsLTU2NDkyMTcwOSwtMTM0Mzgz
+NzE4NCw3ODU5OTUzODcsMjkyNDE0OTk2LC0xMjM5MjIzNjldfQ
+==
 -->
