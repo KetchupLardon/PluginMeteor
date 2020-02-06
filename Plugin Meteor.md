@@ -19,10 +19,11 @@ Utilisation du PHP orienté objet.f
 Création d'une page settings pour un plugin accessible depuis le menu des extensions et depuis la page admin.
 
 <h4><u>Quatrième direction:</u></h4>
-Installation de composer sur Linux pour l'utilisation de la fonction autoloa
+Installation de composer sur Linux pour l'utilisation de la fonction autoload de psr-4.
+Recherche sur psr et fonction autoload.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkxMzc1MDksLTEyOTg4Nzg4ODgsLT
-MyNjMzMDM4MCwtNTY0OTIxNzA5LC0xMzQzODM3MTg0LDc4NTk5
-NTM4NywyOTI0MTQ5OTYsLTEyMzkyMjM2OV19
+eyJoaXN0b3J5IjpbLTM2ODA3MjY4NiwtMTI5ODg3ODg4OCwtMz
+I2MzMwMzgwLC01NjQ5MjE3MDksLTEzNDM4MzcxODQsNzg1OTk1
+Mzg3LDI5MjQxNDk5NiwtMTIzOTIyMzY5XX0=
 -->
