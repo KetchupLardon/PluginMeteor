@@ -24,16 +24,15 @@ Recherche sur psr et fonction autoload.
 Utilisation de namespace.
 Peut-être pas un chemin pertinent au vue de mes objectifs.
 
-<h4><u>Sixième direction:</u></h4>
-Tuto sur les widgets. Recherche sur Youtube. Copier/Coller de la structure de la création d'un widget donné par le codex WordPress.
-Recherches sur chaque fonctions de la structure donné par WordPress.
-
+<h4><u>Cinquième direction:</u></h4>
+Création d'une maquette du plugin sur Moqups pour avoir une vue d'ensemble sur les fonctionnalités.
+Recherche sur les API REST.
 <h4><u>Sixième direction:</u></h4>
 Tuto sur les widgets. Recherche sur Youtube. Copier/Coller de la structure de la création d'un widget donné par le codex WordPress.
 Recherches sur chaque fonctions de la structure donné par WordPress.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjUyMzk0NiwtNDcyNzc4MTM0LDExNT
+eyJoaXN0b3J5IjpbLTcxMTM4MzIyMywtNDcyNzc4MTM0LDExNT
 U0MTIwODEsLTM2ODA3MjY4NiwtMTI5ODg3ODg4OCwtMzI2MzMw
 MzgwLC01NjQ5MjE3MDksLTEzNDM4MzcxODQsNzg1OTk1Mzg3LD
 I5MjQxNDk5NiwtMTIzOTIyMzY5XX0=
