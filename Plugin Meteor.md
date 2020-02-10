@@ -23,10 +23,13 @@ Installation de composer sur Linux pour l'utilisation de la fonction autoload de
 Recherche sur psr et fonction autoload.
 Utilisation de namespace.
 Peut-être pas un chemin pertinent au vue de mes objectifs.
+
+<h4><u>Cinquième direction:</u></h4>
+Tuto sur les widgets
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Mjc3ODEzNCwxMTU1NDEyMDgxLC0zNj
-gwNzI2ODYsLTEyOTg4Nzg4ODgsLTMyNjMzMDM4MCwtNTY0OTIx
-NzA5LC0xMzQzODM3MTg0LDc4NTk5NTM4NywyOTI0MTQ5OTYsLT
-EyMzkyMjM2OV19
+eyJoaXN0b3J5IjpbMTI0NzQzNTIzLC00NzI3NzgxMzQsMTE1NT
+QxMjA4MSwtMzY4MDcyNjg2LC0xMjk4ODc4ODg4LC0zMjYzMzAz
+ODAsLTU2NDkyMTcwOSwtMTM0MzgzNzE4NCw3ODU5OTUzODcsMj
+kyNDE0OTk2LC0xMjM5MjIzNjldfQ==
 -->
