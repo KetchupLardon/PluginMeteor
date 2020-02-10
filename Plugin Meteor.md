@@ -13,7 +13,7 @@ Recherche sur le fonctionnement d'un plugin. Création d'une fonction 					perme
 
 <h4><u>Deuxième direction:</u></h4>
 Création d'un plugin permettant de rajouter des types d'articles chez l'Admin.
-Utilisation du PHP orienté objet.f
+Utilisation du PHP orienté objetif
 
 <h4><u>Troisième direction:</u></h4>
 Création d'une page settings pour un plugin accessible depuis le menu des extensions et depuis la page admin.
@@ -33,7 +33,7 @@ Tuto sur les widgets. Recherche sur Youtube. Copier/Coller de la structure de la
 Recherches sur chaque fonctions de la structure donné par WordPress.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTE1MjUzOSwtNDcyNzc4MTM0LDExNT
+eyJoaXN0b3J5IjpbLTYzNjgzNTkwNCwtNDcyNzc4MTM0LDExNT
 U0MTIwODEsLTM2ODA3MjY4NiwtMTI5ODg3ODg4OCwtMzI2MzMw
 MzgwLC01NjQ5MjE3MDksLTEzNDM4MzcxODQsNzg1OTk1Mzg3LD
 I5MjQxNDk5NiwtMTIzOTIyMzY5XX0=
