@@ -25,11 +25,11 @@ Utilisation de namespace.
 Peut-être pas un chemin pertinent au vue de mes objectifs.
 
 <h4><u>Cinquième direction:</u></h4>
-Tuto sur les widgets
+Tuto sur les widgets. Recherche sur Youtube. Copier/Coller de la structure de la création d'un widget donné par le codex Word
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzQzNTIzLC00NzI3NzgxMzQsMTE1NT
-QxMjA4MSwtMzY4MDcyNjg2LC0xMjk4ODc4ODg4LC0zMjYzMzAz
-ODAsLTU2NDkyMTcwOSwtMTM0MzgzNzE4NCw3ODU5OTUzODcsMj
-kyNDE0OTk2LC0xMjM5MjIzNjldfQ==
+eyJoaXN0b3J5IjpbLTY0MjYzODEwOCwtNDcyNzc4MTM0LDExNT
+U0MTIwODEsLTM2ODA3MjY4NiwtMTI5ODg3ODg4OCwtMzI2MzMw
+MzgwLC01NjQ5MjE3MDksLTEzNDM4MzcxODQsNzg1OTk1Mzg3LD
+I5MjQxNDk5NiwtMTIzOTIyMzY5XX0=
 -->
