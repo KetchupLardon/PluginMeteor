@@ -32,10 +32,15 @@ Recherche sur les API REST.
 Tuto sur les widgets. Recherche sur Youtube. Copier/Coller de la structure de la création d'un widget donné par le codex WordPress.
 Recherches sur chaque fonctions de la structure donné par WordPress.
 Une demi heure à essayer de comprendre pourquoi je ne pouvais pas update le titre du Widget. J'ai juste mal écris le nom de la variable que je devais retourner.
+
+<h4><u>Sixième direction:</u></h4>
+J'utilise l'API OpenWeather. Lorsque je l'affiche il me donne un tableau avec des température comme 270° et ré
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg1MDUwNTUsLTQ3Mjc3ODEzNCwxMT
-U1NDEyMDgxLC0zNjgwNzI2ODYsLTEyOTg4Nzg4ODgsLTMyNjMz
-MDM4MCwtNTY0OTIxNzA5LC0xMzQzODM3MTg0LDc4NTk5NTM4Ny
-wyOTI0MTQ5OTYsLTEyMzkyMjM2OV19
+eyJoaXN0b3J5IjpbMjAwMzYwNTc2NCwtMjAyODUwNTA1NSwtND
+cyNzc4MTM0LDExNTU0MTIwODEsLTM2ODA3MjY4NiwtMTI5ODg3
+ODg4OCwtMzI2MzMwMzgwLC01NjQ5MjE3MDksLTEzNDM4MzcxOD
+QsNzg1OTk1Mzg3LDI5MjQxNDk5NiwtMTIzOTIyMzY5XX0=
 -->
