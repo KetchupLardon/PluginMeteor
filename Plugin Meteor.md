@@ -40,15 +40,15 @@ Même sur le doc du site le résultat qu'est censé retourné l'API est différe
 
 C'est bon, il fallait changer un mot dans l'URL de l'API Call. Leur doc pu la merde. Et la température est toujours bizarre.
 
-Recherche de comment appeler une API en PHP avec une réponse en JSON.
+Recherche de comment appeler une API en PHP avec une réponse en JSON. Jusque là les précédent tuto regardé était en XML.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTk1Njc1MzAsMTQ1ODg2MjUzOSwtNz
-U5NDM1MjQ5LC0xNDM2NDg4MzIsLTExNTUyODg4OSwtMjAyODUw
-NTA1NSwtNDcyNzc4MTM0LDExNTU0MTIwODEsLTM2ODA3MjY4Ni
-wtMTI5ODg3ODg4OCwtMzI2MzMwMzgwLC01NjQ5MjE3MDksLTEz
-NDM4MzcxODQsNzg1OTk1Mzg3LDI5MjQxNDk5NiwtMTIzOTIyMz
-Y5XX0=
+eyJoaXN0b3J5IjpbLTYxMDI4NDAzMCwxNDU4ODYyNTM5LC03NT
+k0MzUyNDksLTE0MzY0ODgzMiwtMTE1NTI4ODg5LC0yMDI4NTA1
+MDU1LC00NzI3NzgxMzQsMTE1NTQxMjA4MSwtMzY4MDcyNjg2LC
+0xMjk4ODc4ODg4LC0zMjYzMzAzODAsLTU2NDkyMTcwOSwtMTM0
+MzgzNzE4NCw3ODU5OTUzODcsMjkyNDE0OTk2LC0xMjM5MjIzNj
+ldfQ==
 -->
