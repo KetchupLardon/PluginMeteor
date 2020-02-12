@@ -36,12 +36,14 @@ Une demi heure à essayer de comprendre pourquoi je ne pouvais pas update le tit
 <h4><u>Sixième direction:</u></h4>
 J'utilise l'API OpenWeather. Lorsque je l'affiche il me donne un tableau avec des température comme 270° avec des tableaux répété comme s'il s'agissais des possibilité mais je ne peux pas afficher la température de la ville rentré.
 Par contre il reconnait la ville car s'il ne je tape un nom au hasard ça m'affiche une erreur.
+Même sur le doc du site le résultat qu'est censé retourné l'API est différente que ce que j'ai. Je crois qu'ils sont claqué.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTUyODg4OSwtMjAyODUwNTA1NSwtND
-cyNzc4MTM0LDExNTU0MTIwODEsLTM2ODA3MjY4NiwtMTI5ODg3
-ODg4OCwtMzI2MzMwMzgwLC01NjQ5MjE3MDksLTEzNDM4MzcxOD
-QsNzg1OTk1Mzg3LDI5MjQxNDk5NiwtMTIzOTIyMzY5XX0=
+eyJoaXN0b3J5IjpbLTE0MzY0ODgzMiwtMTE1NTI4ODg5LC0yMD
+I4NTA1MDU1LC00NzI3NzgxMzQsMTE1NTQxMjA4MSwtMzY4MDcy
+Njg2LC0xMjk4ODc4ODg4LC0zMjYzMzAzODAsLTU2NDkyMTcwOS
+wtMTM0MzgzNzE4NCw3ODU5OTUzODcsMjkyNDE0OTk2LC0xMjM5
+MjIzNjldfQ==
 -->
