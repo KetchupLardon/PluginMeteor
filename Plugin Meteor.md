@@ -34,12 +34,13 @@ Recherches sur chaque fonctions de la structure donné par WordPress.
 Une demi heure à essayer de comprendre pourquoi je ne pouvais pas update le titre du Widget. J'ai juste mal écris le nom de la variable que je devais retourner.
 
 <h4><u>Sixième direction:</u></h4>
-J'utilise l'API OpenWeather. Lorsque je l'affiche il me donne un tableau avec des température comme 270° et ré
+J'utilise l'API OpenWeather. Lorsque je l'affiche il me donne un tableau avec des température comme 270° avec des tableaux répété comme s'il s'agissais des possibilité mais je ne peux pas afficher la température de la ville rentré.
+Par contre il reconnait la ville car s'il ne je tape un nom au hasard ça m'affiche une erreur.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzYwNTc2NCwtMjAyODUwNTA1NSwtND
+eyJoaXN0b3J5IjpbLTExNTUyODg4OSwtMjAyODUwNTA1NSwtND
 cyNzc4MTM0LDExNTU0MTIwODEsLTM2ODA3MjY4NiwtMTI5ODg3
 ODg4OCwtMzI2MzMwMzgwLC01NjQ5MjE3MDksLTEzNDM4MzcxOD
 QsNzg1OTk1Mzg3LDI5MjQxNDk5NiwtMTIzOTIyMzY5XX0=
