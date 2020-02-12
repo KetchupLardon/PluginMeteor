@@ -38,14 +38,14 @@ J'utilise l'API OpenWeather. Lorsque je l'affiche il me donne un tableau avec de
 Par contre il reconnait la ville car s'il ne je tape un nom au hasard ça m'affiche une erreur.
 Même sur le doc du site le résultat qu'est censé retourné l'API est différente que ce que j'ai. Je crois qu'ils sont claqué.
 
-C'est bon, il fallait changer un mot dans l'URL de l'API Call. Leur doc pu la merde.
+C'est bon, il fallait changer un mot dans l'URL de l'API Call. Leur doc pu la merde. Et la température est toujours bizarre.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTQzNTI0OSwtMTQzNjQ4ODMyLC0xMT
-U1Mjg4ODksLTIwMjg1MDUwNTUsLTQ3Mjc3ODEzNCwxMTU1NDEy
-MDgxLC0zNjgwNzI2ODYsLTEyOTg4Nzg4ODgsLTMyNjMzMDM4MC
-wtNTY0OTIxNzA5LC0xMzQzODM3MTg0LDc4NTk5NTM4NywyOTI0
-MTQ5OTYsLTEyMzkyMjM2OV19
+eyJoaXN0b3J5IjpbMTQ1ODg2MjUzOSwtNzU5NDM1MjQ5LC0xND
+M2NDg4MzIsLTExNTUyODg4OSwtMjAyODUwNTA1NSwtNDcyNzc4
+MTM0LDExNTU0MTIwODEsLTM2ODA3MjY4NiwtMTI5ODg3ODg4OC
+wtMzI2MzMwMzgwLC01NjQ5MjE3MDksLTEzNDM4MzcxODQsNzg1
+OTk1Mzg3LDI5MjQxNDk5NiwtMTIzOTIyMzY5XX0=
 -->
