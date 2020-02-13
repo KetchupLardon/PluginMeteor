@@ -42,17 +42,17 @@ C'est bon, il fallait changer un mot dans l'URL de l'API Call. Leur doc pu la me
 
 Recherche de comment appeler une API en PHP avec une réponse en JSON. Jusque là les précédent tuto regardé était en XML.
 
-Après moulte essai j'ai d'abord essayé d'utilise json_decode($variable) mais je n'arrivais pas à afficher qu'un élément de la du tableaux. A ce qu'il paraît on peut pas toucher les stdClass.
+Après moulte essai j'ai d'abord essayé d'utilise json_decode(variable) mais je n'arrivais pas à afficher qu'un élément de la du tableaux. A ce qu'il paraît on peut pas toucher les stdClass.
 Fort agacé de cette événement, je me mis à la recherche de ce qu'est un stdClass.
 Au court de ma route, je tomba sur des forums proposa bien des solutions inutiles quand au fais d'afficher qu'un seul élément du tableau.
-Mon agacement ne fut que plus grand. Mais lors de ma balade je vis une fonction fort similaire à celle que j'utilise, qui se nomme json_decode(
+Mon agacement ne fut que plus grand. Mais lors de ma balade je vis une fonction fort similaire à celle que j'utilise, qui se nomme json_decode(variable, true). Je ne la voyais que ,jusqu'à maintenant, de loin car pensant qu'il s'agissais de la même chose je pensa qu'il me serait inutile d'aller fouiller par ces contrées.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1NDQ0NDc3LC02MTAyODQwMzAsMTQ1OD
-g2MjUzOSwtNzU5NDM1MjQ5LC0xNDM2NDg4MzIsLTExNTUyODg4
-OSwtMjAyODUwNTA1NSwtNDcyNzc4MTM0LDExNTU0MTIwODEsLT
-M2ODA3MjY4NiwtMTI5ODg3ODg4OCwtMzI2MzMwMzgwLC01NjQ5
-MjE3MDksLTEzNDM4MzcxODQsNzg1OTk1Mzg3LDI5MjQxNDk5Ni
-wtMTIzOTIyMzY5XX0=
+eyJoaXN0b3J5IjpbMTEzNTYyMDczMCwtNjEwMjg0MDMwLDE0NT
+g4NjI1MzksLTc1OTQzNTI0OSwtMTQzNjQ4ODMyLC0xMTU1Mjg4
+ODksLTIwMjg1MDUwNTUsLTQ3Mjc3ODEzNCwxMTU1NDEyMDgxLC
+0zNjgwNzI2ODYsLTEyOTg4Nzg4ODgsLTMyNjMzMDM4MCwtNTY0
+OTIxNzA5LC0xMzQzODM3MTg0LDc4NTk5NTM4NywyOTI0MTQ5OT
+YsLTEyMzkyMjM2OV19
 -->
