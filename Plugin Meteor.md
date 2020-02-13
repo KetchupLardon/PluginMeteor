@@ -47,14 +47,15 @@ Fort agacé de cette événement, je me mis à la recherche de ce qu'est un stdC
 Au court de ma route, je tomba sur des forums proposa bien des solutions inutiles quand au fais d'afficher qu'un seul élément du tableau.
 Mon agacement ne fut que plus grand. Mais lors de ma balade je vis une fonction fort similaire à celle que j'utilise, qui se nomme json_decode(variable, true). Je ne la voyais que ,jusqu'à maintenant, de loin car pensant qu'il s'agissais de la même chose je pensa qu'il me serait inutile d'aller fouiller par ces contrées.
 Mais suite à plusieurs heure d'agacement qui ne cessa de grandir je me décida d'aller partir à la recherche de cette fonction de mes couilles. 
-Quel fu ma surprise lorsque je d
+Quel fut ma surprise lorsque je découvri qu'un seul putain de mot ajouté à une fonction pourrai changer le cours de mon avenir.
+Du coup c'est bon j'arrive à afficher ce que je veux, mais la température est toujours aux fraises, je 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzAyNzU5MSwtNjEwMjg0MDMwLDE0NT
-g4NjI1MzksLTc1OTQzNTI0OSwtMTQzNjQ4ODMyLC0xMTU1Mjg4
-ODksLTIwMjg1MDUwNTUsLTQ3Mjc3ODEzNCwxMTU1NDEyMDgxLC
-0zNjgwNzI2ODYsLTEyOTg4Nzg4ODgsLTMyNjMzMDM4MCwtNTY0
-OTIxNzA5LC0xMzQzODM3MTg0LDc4NTk5NTM4NywyOTI0MTQ5OT
-YsLTEyMzkyMjM2OV19
+eyJoaXN0b3J5IjpbLTEwNDAwMjI4ODEsLTYxMDI4NDAzMCwxND
+U4ODYyNTM5LC03NTk0MzUyNDksLTE0MzY0ODgzMiwtMTE1NTI4
+ODg5LC0yMDI4NTA1MDU1LC00NzI3NzgxMzQsMTE1NTQxMjA4MS
+wtMzY4MDcyNjg2LC0xMjk4ODc4ODg4LC0zMjYzMzAzODAsLTU2
+NDkyMTcwOSwtMTM0MzgzNzE4NCw3ODU5OTUzODcsMjkyNDE0OT
+k2LC0xMjM5MjIzNjldfQ==
 -->
