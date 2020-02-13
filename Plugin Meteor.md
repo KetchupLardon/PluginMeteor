@@ -42,13 +42,14 @@ C'est bon, il fallait changer un mot dans l'URL de l'API Call. Leur doc pu la me
 
 Recherche de comment appeler une API en PHP avec une réponse en JSON. Jusque là les précédent tuto regardé était en XML.
 
+Après moulte essai j'ai d'abord essayé d'utilise json_decode($variable) mais je n'arrivais pas à afficher qu'un élément de la d
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDI4NDAzMCwxNDU4ODYyNTM5LC03NT
-k0MzUyNDksLTE0MzY0ODgzMiwtMTE1NTI4ODg5LC0yMDI4NTA1
-MDU1LC00NzI3NzgxMzQsMTE1NTQxMjA4MSwtMzY4MDcyNjg2LC
-0xMjk4ODc4ODg4LC0zMjYzMzAzODAsLTU2NDkyMTcwOSwtMTM0
-MzgzNzE4NCw3ODU5OTUzODcsMjkyNDE0OTk2LC0xMjM5MjIzNj
-ldfQ==
+eyJoaXN0b3J5IjpbNDE0NTg1MDU0LC02MTAyODQwMzAsMTQ1OD
+g2MjUzOSwtNzU5NDM1MjQ5LC0xNDM2NDg4MzIsLTExNTUyODg4
+OSwtMjAyODUwNTA1NSwtNDcyNzc4MTM0LDExNTU0MTIwODEsLT
+M2ODA3MjY4NiwtMTI5ODg3ODg4OCwtMzI2MzMwMzgwLC01NjQ5
+MjE3MDksLTEzNDM4MzcxODQsNzg1OTk1Mzg3LDI5MjQxNDk5Ni
+wtMTIzOTIyMzY5XX0=
 -->
